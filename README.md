@@ -1,5 +1,7 @@
 # Disney-Movies-and-Box-Office-Success  
-  
+
+![jorge-martinez-instagram-jmartinezz9-431078-unsplash_edited](https://user-images.githubusercontent.com/55188228/233416165-67acc853-6965-4fff-9430-16d62084ea45.jpg)
+
   
   
 ## Project Tasks  
